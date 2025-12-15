@@ -58,7 +58,8 @@ endmodule
 <img width="1907" height="1012" alt="Screenshot 2025-11-24 010030" src="https://github.com/user-attachments/assets/7bd489d6-a164-49ea-8fc6-a1a6d19dde7f" />
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1907" height="984" alt="AdobeExpressPhotos_94b007714ba34a0a94b4e9d7d68cd95c_CopyEdited" src="https://github.com/user-attachments/assets/b3b24350-0d97-47c4-824f-1a1a9bd7b7aa" />
+<img width="1907" height="958" alt="Screenshot 2025-12-15 204647" src="https://github.com/user-attachments/assets/d98b6ac3-9a29-4c1b-a42f-56b76726a216" />
+
 
 **RESULTS**  
 
